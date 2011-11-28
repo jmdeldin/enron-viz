@@ -1,0 +1,10 @@
+font.family        : serif
+font.serif         : Computer Modern Roman
+font.sans-serif    : Computer Modern Sans serif
+font.cursive       : Zapf Chancery
+font.monospace     : Computer Modern Typewriter
+xtick.labelsize    : 8
+ytick.labelsize    : 8
+
+text.usetex        : true
+
